@@ -36,26 +36,6 @@ I'm a student exploring the intersection of computational methods and biological
 
 ---
 
-## Projects
-
-### 🧬 Bioinformatics Problem Solving
-**[Rosalind Solutions](https://github.com/your-repo-name)** | Python  
-Solving computational biology challenges including:
-- DNA/RNA sequence analysis and manipulation
-- Pattern recognition in genomic sequences
-- Molecular biology algorithms
-- Phylogenetic analysis
-
-### 💻 [Project Name]
-**[Repository Link](https://github.com/your-repo)** | Technology Stack  
-Brief description of what this project does and the problem it solves.
-
-### 💻 [Project Name]
-**[Repository Link](https://github.com/your-repo)** | Technology Stack  
-Brief description of what this project does and the problem it solves.
-
----
-
 ## Current Learning
 
 ```bash
