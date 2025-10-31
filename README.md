@@ -1,4 +1,4 @@
-# 🧬 Hi there, I'm Đức Trần Hồ Mạnh  
+# 🧬 Hi there, I'm Duc Tran
 
 🎓 **Student at [Grinnell College](https://www.grinnell.edu/), Iowa**  
 🔬 **Interested in Bioinformatics & Machine Learning**  
