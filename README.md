@@ -64,7 +64,3 @@ I'm a student exploring the intersection of computational methods and biological
 💼 **LinkedIn:** [linkedin.com/in/duc-tran-807b84340](https://linkedin.com/in/duc-tran-807b84340)
 
 ---
-
-<div align="center">
-  <sub>Building computational solutions for biological questions</sub>
-</div>
