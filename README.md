@@ -24,7 +24,7 @@ I'm a student exploring the intersection of computational methods and biological
 
 ## Technical Skills
 
-**Languages:** Python · C++ · HTML · CSS  
+**Languages:** Python · C++ · HTML · CSS · R
 **Tools:** Git · GitHub · VS Code · Jupyter Notebook
 
 ---
